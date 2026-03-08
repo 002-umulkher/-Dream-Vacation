@@ -67,3 +67,10 @@ margin: auto;
     right: 4rem;
 }
 
+.logo h1 span{
+    font-size: 2rem;
+    font-weight: 900;
+    color: var(--primary-color);
+    text-transform: uppercase;
+    background-color: var(--grey-color);
+}
