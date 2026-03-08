@@ -84,6 +84,33 @@ margin: auto;
     margin: 0.5rem;
 }
 
+.logo h1 span:nth-child(1){
+animation: drop-letters 1s 0.1s infinite;
+}
+
+.logo h1 span:nth-child(1){
+animation: drop-letters 1s 0.1s infinite;
+}
+
+.logo h1 span:nth-child(1){
+animation: drop-letters 1s 0.1s infinite;
+}
+
+.logo h1 span:nth-child(1){
+animation: drop-letters 1s 0.1s infinite;
+}
+
+.logo h1 span:nth-child(1){
+animation: drop-letters 1s 0.1s infinite;
+}
+
+.logo h1 span:nth-child(1){
+animation: drop-letters 1s 0.1s infinite;
+}
+
+.logo h1 span:nth-child(1){
+animation: drop-letters 1s 0.1s infinite;
+}
 @keyframes drop-letters{
     0%{
         transform: translateY(0);
