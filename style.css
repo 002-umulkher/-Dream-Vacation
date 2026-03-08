@@ -78,10 +78,9 @@ margin: auto;
     color: var(--primary-color);
     text-transform: uppercase;
     background-color: var(--grey-color); 
-    display:block;
     width: 3.5rem;
     height: 3.5rem;
     border-radius: 50%;
-margin: 0.5rem;
+    margin: 0.5rem;
 
 }
