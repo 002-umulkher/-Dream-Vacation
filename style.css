@@ -67,10 +67,21 @@ margin: auto;
     right: 4rem;
 }
 
+.logo h1{
+    display: flex;
+}
+
+
 .logo h1 span{
     font-size: 2rem;
     font-weight: 900;
     color: var(--primary-color);
     text-transform: uppercase;
-    background-color: var(--grey-color);
+    background-color: var(--grey-color); 
+    display:block;
+    width: 3.5rem;
+    height: 3.5rem;
+    border-radius: 50%;
+
+
 }
