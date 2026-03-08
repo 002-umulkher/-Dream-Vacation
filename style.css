@@ -44,6 +44,7 @@ background-size: cover;
     text-align: center;
     text-transform: uppercase;
     letter-spacing: 0.1rem;
+    text-shadow: 0 0.3rem 0.5rem var(--grey-color);
 }
 
 .heading{
@@ -54,5 +55,7 @@ background-size: cover;
 .header-paragraph{
     font-size: 3rem;
     font-weight: 500;
-color:var() ;
+color:var(--secondary-color) ;
+max-width: 70rem;
+margin: auto;
 }
