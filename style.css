@@ -190,3 +190,23 @@ display: flex;
 justify-content:space-evenly;
 
 }
+
+.card{
+    width: 35rem;
+}
+
+.card-image{
+    width: 100%;
+    border-radius: 0.3rem ;
+}
+
+.front-side{
+    text-align: center;
+    background-color: var(--grey-color);
+    border-radius: 0.3rem;
+}
+
+.tour-name{
+font-size: 2.5rem;
+font-weight:700 ;
+}
