@@ -185,7 +185,7 @@ color: var(--primary-color);
 text-shadow: 0 0.1rem 0.2rem var(--primary-color);
 }
 
-.cards-wrap{
+.card-wrap{
 display: flex;
 justify-content:space-evenly;
 
