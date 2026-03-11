@@ -274,7 +274,7 @@ text-transform: uppercase;
 
 .card-button {
   color: var(--primary-color);
-  background-color: var(--grey-color));
+  background-color: var(--grey-color);
   border: none;
   font-size: 2.5rem;
   padding: 1rem 2rem;
