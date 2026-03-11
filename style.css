@@ -375,3 +375,9 @@ text-transform: uppercase;
 .story-paragraph::first-letter{
     margin-left: 1rem;
 }
+
+.contact{
+    padding: 15rem 0 20rem 0;
+    text-align: center;
+   
+}
