@@ -306,3 +306,8 @@ text-transform: uppercase;
 .card.change .back-side{
   transform: rotateY(0);
 }
+
+.stories {
+  padding: 10rem 0;
+  position: relative;
+}
